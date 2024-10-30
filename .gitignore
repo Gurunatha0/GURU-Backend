@@ -1,0 +1,49 @@
+# Node.js dependencies
+node_modules/
+
+# Log files
+*.log
+
+# Environment variable files
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# npm package lock file (optional; you might want to track it)
+# package-lock.json
+
+# Build output
+dist/
+build/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Dependency directories (optional; include if using yarn or other package managers)
+yarn.lock
+
+# PostgreSQL database files (if storing locally)
+*.sql
+*.pgsql
+
+# Custom or temporary files
+*.tmp
+*.swp
+*.swo
+
+# Coverage directory used by tools like Jest
+coverage/
+
+# Debugger configurations
+*.code-workspace
+
+# VS Code settings
+.vscode/
+.settings/
+
+# dependence block
+test/
+.rest
